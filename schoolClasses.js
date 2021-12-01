@@ -51,15 +51,15 @@ class Class {
   }
 }
 
-const basicProgramming = new Course('Basic Programming');
-const htmlCss = new Course('HTML & CSS');
-const cssFlexbox = new Course('CSS Flexbox');
-const cssGrid = new Course('CSS Grid');
-const basicBI = new Course('Basic BI');
-const tableau = new Course('Tableau');
-const dataViz = new Course('DataViz');
-const unrealEngine = new Course('Unreal Engine');
-const unity = new Course('Unity');
+const basicProgramming = new Course({ name: 'Basic Programming' });
+const htmlCss = new Course({ name: 'HTML & CSS' });
+const cssFlexbox = new Course({ name: 'CSS Flexbox' });
+const cssGrid = new Course({ name: 'CSS Grid' });
+const basicBI = new Course({ name: 'Basic BI' });
+const tableau = new Course({ name: 'Tableau' });
+const dataViz = new Course({ name: 'DataViz' });
+const unrealEngine = new Course({ name: 'Unreal Engine' });
+const unity = new Course({ name: 'Unity' });
 
 const WebDevelopment = new LearningPath({
   name: 'Web Development',
