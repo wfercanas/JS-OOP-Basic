@@ -1,6 +1,6 @@
 # JS-OOP-Basic
 
-### Difficulty: [🟣 Easy]:
+### Difficulty: [⚪ Very Easy]:
 
 ## Project Description
 
